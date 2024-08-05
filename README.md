@@ -47,8 +47,9 @@ Welcome to my GitHub profile! I'm Anjali, a passionate data analytics student cu
 ## Study Projects
 
 ### TBD
-
-...
+- Tableau Cereal Dashboard: [link](https://prod-ca-a.online.tableau.com/t/vekariaanjalib1dd1e774c/views/C2256_Assignment2_AnjaliVekaria_Part1/CerealDashboard)
+- Tableau Vancouver Parks Dashboard: [link](https://prod-ca-a.online.tableau.com/t/vekariaanjalib1dd1e774c/views/C2256_Assignment1_AnjaliVekaria_Part2/Dashboard1)
+- Tableau Genre Assignment Dashboard: [link](https://prod-ca-a.online.tableau.com/t/vekariaanjalib1dd1e774c/views/C2256_Assignment1_AnjaliVekaria_Part1/Dashboard1)
 
 ## Skills & Interests
 
